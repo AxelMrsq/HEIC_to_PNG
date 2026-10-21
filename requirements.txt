@@ -1,3 +1,0 @@
-pillow-heif
-tkinter
-pillow

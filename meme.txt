@@ -1,6 +1,0 @@
-pyinstaller ^
-  --windowed ^
-  --name "HEIC_to_PNG" ^
-  --add-binary "imagemagick/*.dll;." ^
-  --hidden-import tkinter ^
-  main.py
